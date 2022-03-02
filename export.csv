@@ -1,4 +1,4 @@
-﻿date,tavg,tmin,tmax,prcp,snow,wdir,wspd,wpgt,pres,tsun
+﻿date,tavg,tmin,tmax,prcp,snow,wdir,wspd,wpgt,pres;
 2020-01-01,3.6,1.7,5,0,0,264.6,17.3,,1008.2;
 2020-01-02,4.7,0.6,8.9,0,0,218.2,12.4,,1013.9;
 2020-01-03,7.6,6.7,8.3,2.8,0,235.5,8.4,,1010.2;
